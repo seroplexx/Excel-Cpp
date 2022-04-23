@@ -1,0 +1,6 @@
+C:\Users\mende\source\repos\new\new\Debug\new.vcxprojAssemblyReference.cache
+C:\Users\mende\source\repos\new\new\Debug\new_.Form1.resources
+C:\Users\mende\source\repos\new\new\Debug\new.vcxproj.GenerateResource.cache
+N:\Documents\İş\C# & C++ Otomasyon\Bionluk v1.0\new\new\Debug\new.vcxprojAssemblyReference.cache
+N:\Documents\İş\C# & C++ Otomasyon\Bionluk v1.0\new\new\Debug\new_.Form1.resources
+N:\Documents\İş\C# & C++ Otomasyon\Bionluk v1.0\new\new\Debug\new.vcxproj.GenerateResource.cache

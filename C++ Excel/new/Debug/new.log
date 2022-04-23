@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+  main.cpp
+N:\Documents\İş\C# & C++ Otomasyon\Bionluk v1.0\new\new\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  new.vcxproj -> N:\Documents\İş\C# & C++ Otomasyon\Bionluk v1.0\new\Debug\new.exe
